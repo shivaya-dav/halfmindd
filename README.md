@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on oscp
 - 📫 How to reach me hackerhalfmind@gmail.com
+- fun fact: Beer addicted
 
 <!---
 halfmindd/halfmindd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
