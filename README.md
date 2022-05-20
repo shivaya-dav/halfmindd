@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @halfmindd 
+- 👋 Hi, I’m @shivaya.dav
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on oscp
