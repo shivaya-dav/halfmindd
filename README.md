@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shivaya.dav
+- 👋 Hi, I’m @shivayadav
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on oscp
-- 📫 How to reach me hackerhalfmind@gmail.com
+- 💞️ all day alcohol
+- 📫 full night alcohol
 - fun fact: Beer addicted
 
 <!---
